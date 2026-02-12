@@ -18,3 +18,4 @@ export const authenticate = (req: Request, res: Response, next: NextFunction) =>
         res.status(401).json({ message: 'Invalid token' });
     }
 };
+

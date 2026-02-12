@@ -127,3 +127,4 @@ This project is open source and available under the MIT License.
 ---
 
 **Need help?** Check the [Setup Guide](SETUP_GUIDE.md) or open an issue on GitHub.
+

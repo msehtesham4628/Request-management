@@ -11,3 +11,4 @@ router.get('/', getUsers);
 router.get('/employees', getUsers);  // Same endpoint - returns all users for assignment
 
 export default router;
+

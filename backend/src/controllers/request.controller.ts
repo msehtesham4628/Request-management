@@ -131,3 +131,4 @@ export const closeRequest = async (req: Request, res: Response) => {
         res.status(500).json({ message: 'Failed to close request' });
     }
 };
+

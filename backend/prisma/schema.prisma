@@ -34,3 +34,4 @@ model Request {
   createdAt DateTime @default(now())
   updatedAt DateTime @updatedAt
 }
+
